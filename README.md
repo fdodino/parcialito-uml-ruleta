@@ -10,6 +10,8 @@ Dada [la siguiente solución (archivo Ruleta.kt)](src/main/kotlin/ar/edu/unsam/a
   - un jugador que hizo apuesta múltiple y no ganó (invente ud. el ejemplo)
 3. indique qué patrones de diseño reconoce, justifique su decisión.
 
+Se recomienda leer [este apunte](https://docs.google.com/document/d/1HGdGdDG7RAhL5j45UOFGK3F5sV2-rKHVHmPoYawHS5Y/edit) como guía.
+
 ## Modalidad de entrega
 
 - Debe adjuntar archivos en formato pdf / png a este mismo repositorio
