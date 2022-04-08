@@ -2,7 +2,7 @@
 
 ## Enunciado
 
-Dada la siguiente solución se pide que
+Dada [la siguiente solución (archivo Ruleta.kt)](src/main/kotlin/ar/edu/unsam/algo2/ruleta/Ruleta.kt) se pide que
 
 1. comunique el diagrama de clases
 2. comunique el diagrama de secuencia para el caso de uso “Ganó Apuesta”, donde
