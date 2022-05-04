@@ -21,7 +21,7 @@ class Gastador : TipoJugador {
 }
 
 class Conservador : TipoJugador {
-    override fun montoPorApuesta(jugador: Jugador) = jugador.montoGanado
+    override fun montoPorApuesta(jugador: Jugador) = 10
 }
 
 abstract class Apuesta(var montoApostado: Int) {
